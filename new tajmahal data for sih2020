@@ -1,0 +1,55 @@
+CREATE TABLE `destination_info` (
+
+destination_id` 
+   - tajmahal1663
+
+destination_name`
+  - Taj Mahal
+
+destination_state`
+ -  Uttar Pradesh
+
+destination_description
+  -Taj Mahal is best known for its white marble mausoleum, a symbol of eternal love
+
+destination_history ,
+-The Taj Mahal was built by the Mughal emperor Shah Jah to immortalize his wife Mumtaz Mahal  
+
+gps_coordinates` 
+-27.1751 , 78.0421
+
+entry_prerequisites`
+-for indian national cost is 50 rupees. for FOREIGNER or NRI cost is 1100 rupees. for SAARC or BIMSTEC cost is 540 rupees
+
+policies 
+- Eating and smoking is strictly prohibited inside Taj Mahal. Arms, ammunitions,smoking items, tobacco products,head phones, electric goods(except camera) are not allowed
+
+timings_to_visit`
+-Daytime: sunrise to sunset every day (06:00 am to 06:30 pm) except Friday. 
+`  
+sesson_to_visit` 
+- from the months of October to March
+ 
+how_to_reach` 
+-Nearest Railway Station is Agra Cantt station at a distance of 6 km and take local auto and cabs.Nearest Bus Stand is Idgah Bus Stand at a distance of 6 km and take local auto and cabs.
+   
+rec_for_diff_abled` 
+-you can access wheelchair and theye are ramps for easy travel. Braille Inscriptions are also there for easy access for reading.
+  
+similar_places` 
+-smillar places are Mahabat Maqbara (Junagadh),Bibi Ka Maqbara (Aurangabad),The Red Taj (Agra), Mizo Taj (Aizawl)
+
+things_to_do`
+-You can go on the river in the evening on a boat and watch the sunset descend on the Taj Mahal. Visit Agra Fort,Keetham Lake and Dolphin water park(for the kids) 
+
+state
+-Uttar Pradesh
+
+
+ CREATE TABLE emergency_info (user_id VARCHAR(100) NOT NULL, phone_no_list VARCHAR(110));
+
+
+ CREATE TABLE countryvisa_info (country_name VARCHAR(100) NOT NULL, visa_needs VARCHAR(110));
+
+
+

@@ -1,0 +1,35 @@
+{
+	"tajmahal": [{
+		"destination_id": "tajmahal1663",
+		"destination_name": "Taj Mahal",
+		"destination_description": "Taj Mahal is best known for its white marble mausoleum, a symbol of eternal love",
+		"destination_history": "The Taj Mahal was built by the Mughal emperor Shah Jah to immortalize his wife Mumtaz Mahal",
+		"gps_coordinates": "-27.1751 , 78.0421",
+		"entry_prerequisites": "for indian national cost is 50 rupees. for FOREIGNER or NRI cost is 1100 rupees. for SAARC or BIMSTEC cost is 540 rupees ",
+		"policies": "Eating and smoking is strictly prohibited inside Taj Mahal. Arms, ammunitions,smoking items, tobacco products,head phones, electric goods(except camera) are not allowed ",
+		"similar_places": "smillar places are Mahabat Maqbara (Junagadh),Bibi Ka Maqbara (Aurangabad),The Red Taj (Agra), Mizo Taj (Aizawl)",
+		"things_to_do": "You can go on the river in the evening on a boat and watch the sunset descend on the Taj Mahal. Visit Agra Fort,Keetham Lake and Dolphin water park(for the kids) ",
+		"state": "Uttar Pradesh",
+		"season": "summer",
+		"rec_for_diff_abled": "you can access wheelchair and theye are ramps for easy travel. Braille Inscriptions are also there for easy access for reading.",
+		"timings_to_visit": "Daytime: sunrise to sunset every day (06:00 am to 06:30 pm) except Friday",
+		"visa_needs": "yes visa are needed",
+		"how_to_reach": "Nearest Railway Station is Agra Cantt station at a distance of 6 km and take local auto and cabs.Nearest Bus Stand is Idgah Bus Stand at a distance of 6 km and take local auto and cabs"
+	}],
+	"redFort": [{
+		"destination_id": "Redfort1663",
+		"destination_name": "Red Fort(Lal Qila)",
+		"destination_description": "The Red Fort (Lal Qila) is a monument built in 1638 that rises 33 meters(108 ft) above Old Delhi.It is made of red stone and marble",
+		"destination_history": "The Red Fort was built as the palace fort of Shahjahanabad the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone",
+		"gps_coordinates": "28.6562, 77.2410",
+		"entry_prerequisites": "Red Fort ticket price for Indians is Rs 35 and for foreigners it is Rs 500",
+		"policies": "Eating and smoking is stricadtly prohibited inside Taj Mahal. Arms, ammunitions,smoking items, tobacco products,head phones, electric goods(except camera)are not allowed",
+		"similar_places": "India Gate,Qutub Minar,Humayun's Tomb,Jama Masjid",
+		"state": "Uttar Pradesh",
+		"season": "summrrrrer",
+		"rec_for_diff_abled": "Daytime: sunrise to sunset every day (06:00 am to 06:30 pm) except Friday",
+		"timings_to_visit": "9:30 AM to 4:30 PM (Daily)",
+		"visa_needs": " yes visa are needed",
+		"how_to_reach": "Nearest metro station to redfort is Chandni Chowk on Yellow Line which is 1.5km away from the redfort and take cabs,local buses to reach the fort"
+	}]
+}

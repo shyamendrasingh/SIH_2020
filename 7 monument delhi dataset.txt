@@ -1,0 +1,200 @@
+1. Red Fort (Lal Qila)
+
+destination_id
+   - Redfort1663
+   
+destination_name
+  - RedFort
+   
+destination_description
+  - The Red Fort (Lal Qila) is a monument built in 1638 that rises  33 meters (108 ft) above Old Delhi. It was built by the Mughal     Emperor Shah Jahan. The fort is located in what is now the         centre of Delhi, India. It is made of red stone and marble
+  
+destination_history
+-In 1638, the Mughal Emperor Shah Jahan moved the capital of his empire from Agra to a newly constructed city in Delhi that he called Shahjahanabad. Along with the construction of this new city, he laid the foundations of his palace, the Red Fort or Lal Qila. This massive walled citadel with red sandstone walls took nearly a decade to complete. It is considered to be better planned than the Agra Fort, as Shah Jahan learned from his experience pf living there. This fort was the seat of the Mughal empire for around 200 years, until it fell into British hands. The last Mughal Emperor Bahadur Shah Zafar was coronated here in 1837, during which time it is said that his powers did not extend beyond the boundaries of his palace.
+   
+gps_coordinates
+-28.6562° N, 77.2410° E
+   
+entry_prerequisites
+-Red Fort ticket price for Indians is Rs 35 and for foreigners it is Rs 500.The weekend ticket rate will cost you Rs 80 for adults and Rs 30 for kids
+   
+policies
+-Do not's
+INFORMATION FOR TOURISTS VISTING RED FORT
+Eating and smoking is strictly prohibited inside Agra Fort. Arms, ammunitions, fire, smoking items, tobacco products, liquor, eatables (Toffees), head phones, knives, wire, mobile charger, electronic goods (except camera) are also prohibited.
+Mobile phones are to be kept switched off.
+Please avoid carrying big bags and books inside the monument, this may increase your security check time.
+Avoid touching & scratching the walls & surfaces of the monument as these are heritage sites and need special care.
+Visitors are requested not to make noise inside the monument.
+Do's
+Tourists are advised to hire approved guides & photographers who exhibit their identity cards.
+   
+visa_needs
+-yes 
+   
+timings_to_visit
+- 9:30 AM to 4:30 PM (Daily)
+
+how_to_reach
+-This spot is a vibrant tourist location which is situated right in the middle of the city. Delhi being the capital is easily reachable by air as it has got the International Airport from where cabs can be taken to the location. The Metro is connected to the old railway station, new railway station and the airport. After reaching the Chandni Chowk station, the fort is just a ten-minute walk away. A good bus network is available within the city and can be used to reach the spot. Added to all this, auto rickshaws are also available in plenty to reach this location.
+   
+rec_for_diff_abled
+-yes
+
+seasons
+-November to March
+ 
+similar_places
+-India Gate
+ Qutub Minar
+ Humayun's Tomb
+ Jama Masjid
+   
+things_to_do
+-Enjoy the show in the evenings which are specially orchestrated for visitors.
+Many mahals like the Mumtaz Mahal, Khas Mahal and the Rang Mahal are interesting places to look into.
+
+
+2. Qutub Minar
+     
+destination_id
+-Qutubminar1633
+
+destination_name
+- Qutub Minar
+
+destination_description
+-The Qutb Minar, is a victory tower" that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of New Delhi, India.[3][4] The height of Qutub Minar is 72.5 meters, making it the tallest minaret in the world built of bricks.[5][6] The tower tapers, and has a 14.3 metres (47 feet) base diameter, reducing to 2.7 metres (9 feet) at the top of the peak.[7] It contains a spiral staircase of 379 steps.
+   
+destination_history
+-Delhi’s Qutub Minar is a five-storied structure constructed over four centuries by a number of rulers. It was originally commissioned by Qutb-ud-din Aibak, who was the founder of the Delhi Sultanate, around 1192 as a victory tower. The minaret is named after him; although he wasn’t able to build it beyond the first story. His successor Shams-ud-din Iltutmish added three more floors to the structure in 1220. Its topmost story suffered damages in 1369 due to lightning. It was reconstructed by Firoz Shah Tughlaq, who added the fifth and final story to the tower while the entrance to Qutub Minar was built by Sher Shah Suri.
+
+gps_coordinates
+-28.5245° N, 77.1855° E
+
+entry_prerequisites
+-30 per Indian and Rs.500 per foreigner
+   
+policies
+-
+
+visa_needs
+-yes 
+   
+timings_to_visit
+- 7:00 am to 5:00 pm(daily)
+   
+how_to_reach
+-Nearest Airport :Indira Gandhi International Air Port Indira Gandhi International Air Port
+Nearest Railway Station :Old Delhi Railway Station
+Nearest Bus Station :Kashmiri Gate Bus Station
+seasons
+-November to March.
+
+rec_for_diff_abled
+-yes
+   
+similar_places
+-India Gate
+ Humayun's Tomb
+ Jama Masjid
+   
+things_to_do
+-Photography can be carried out at the location which serves as a great backdrop and includes a lush green garden
+The plethora of restaurants situated in the area are great to try out different kinds of dishes
+Buy stuff from the local hawkers and the markets to collect some souvenirs.
+
+
+
+
+
+3.Jama Masjid
+   destination_description
+   destination_id
+   destination_name
+   destination_history
+   gps_coordinates
+   entry_prerequisites
+   policies
+   visa_needs
+   timings_to_visit
+   how_to_reach
+   no_of_users_reffred
+   rec_for_diff_abled
+   similar_places
+   things_to_do
+4.Jantar Mantar
+destination_description
+   destination_id
+   destination_name
+   destination_history
+   gps_coordinates
+   entry_prerequisites
+   policies
+   visa_needs
+   timings_to_visit
+   how_to_reach
+   no_of_users_reffred
+   rec_for_diff_abled
+   similar_places
+   things_to_do
+5.India Gate
+destination_description
+   destination_id
+   destination_name
+   destination_history
+   gps_coordinates
+   entry_prerequisites
+   policies
+   visa_needs
+   timings_to_visit
+   how_to_reach
+   no_of_users_reffred
+   rec_for_diff_abled
+   similar_places
+   things_to_do
+6.Purana Qila (Old Fort)
+   destination_description
+   destination_id
+   destination_name
+   destination_history
+   gps_coordinates
+   entry_prerequisites
+   policies
+   visa_needs
+   timings_to_visit
+   how_to_reach
+   no_of_users_reffred
+   rec_for_diff_abled
+   similar_places
+   things_to_do
+7.Tomb of Imam Zamin
+   destination_description
+   destination_id
+   destination_name
+   destination_history
+   gps_coordinates
+   entry_prerequisites
+   policies
+   visa_needs
+   timings_to_visit
+   how_to_reach
+   season
+   rec_for_diff_abled
+   similar_places
+   things_to_do
+8.Diwan-i-Am
+   destination_description
+   destination_id
+   destination_name
+   destination_history
+   gps_coordinates
+   entry_prerequisites
+   policies
+   visa_needs
+   timings_to_visit
+   how_to_reach
+   no_of_users_reffred
+   rec_for_diff_abled
+   similar_places
+   things_to_do

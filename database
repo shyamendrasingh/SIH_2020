@@ -1,0 +1,17 @@
+CREATE TABLE `sih20`.`destination_info` (
+  `destination_id` VARCHAR(10) NOT NULL,
+  `destination_name` VARCHAR(100) NOT NULL,
+  `destination_description` VARCHAR(500) NOT NULL,
+  `destination_history` VARCHAR(500) NOT NULL,
+  `gps_coordinates` VARCHAR(100) NOT NULL,
+  `entry_prerequisites` VARCHAR(500) NOT NULL,
+  `policies` VARCHAR(500) NOT NULL,
+  `visa_needs` VARCHAR(500) NOT NULL,
+  `timings_to_visit` VARCHAR(500) NOT NULL,
+  `how_to_reach` VARCHAR(500) NOT NULL,
+  `no_of_users_reffered` INT NOT NULL,
+  `rec_for_diff_abled` VARCHAR(500) NOT NULL,
+  `similar_places` VARCHAR(500) NOT NULL,
+  `things_to_do` VARCHAR(500) NOT NULL,
+  PRIMARY KEY (`destination_id`),
+  UNIQUE INDEX `destination_id_UNIQUE` (`destination_id` ASC));
